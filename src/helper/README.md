@@ -46,7 +46,7 @@ Build a Todo App using ReactJS.
 - ReactJS
 
 ## ToDo App Projects Demo
-[Todo App Live](https://react-todoapp-uuid.vercel.app/)
+[Todo App Live](https://react-to-do-app-snr.netlify.app/)
 
 
 ## ToDo App Projects
