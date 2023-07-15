@@ -54,4 +54,3 @@ Build a Todo App using ReactJS.
 ![React-ToDo-App Projects](react-todo-app.gif)
 
 
-
