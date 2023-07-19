@@ -8,7 +8,7 @@
 ```
 React-ToDo-App(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
